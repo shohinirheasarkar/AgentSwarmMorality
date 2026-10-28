@@ -1,0 +1,5 @@
+# Agent Swarm Morality
+
+I’m studying how AI agents make moral decisions, both individually and when they interact in a group. I want to understand whether discussion changes their choices, what happens when agents approach the same problem from different philosophical perspectives, and how those choices hold up under pressure. My broader questions include the effects of resource scarcity, difficult or impossible goals, emotional framing, and philosophical fine-tuning.
+
+My initial experiment focuses on groups with different mixes of consequence-focused, duty-focused, and neutral agents. I plan to compare their private decisions before and after discussion with decisions made after reconsidering alone. I also want to test whether an argument changes an agent’s choice because of what it says or because of the philosophical label attached to it. This repository currently contains my [research ideas](docs/01_idea_inventory.md), [related work](docs/02_prior_work_and_idea_comparison.md), and [experiment plan](docs/03_detailed_experiment_plan.md); I haven’t run the experiments yet.
