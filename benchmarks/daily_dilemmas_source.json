@@ -1,0 +1,16 @@
+{
+  "dataset": "DailyDilemmas",
+  "repository": "https://huggingface.co/datasets/kellycyy/daily_dilemmas",
+  "revision": "372352c4143ec4923c50b4472bd3148a474f7ab8",
+  "license": "CC-BY-4.0",
+  "paper": "https://arxiv.org/abs/2410.02683",
+  "authors": ["Yu Ying Chiu", "Liwei Jiang", "Yejin Choi"],
+  "raw_directory": "data/raw/daily_dilemmas",
+  "files": [
+    "README.md",
+    "dilemma_to_action_to_values_aggregated.csv",
+    "action_to_party_to_value.csv",
+    "values.csv",
+    "principle_openai_modelspec_with_system_prompt.csv"
+  ]
+}
